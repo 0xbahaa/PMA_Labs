@@ -1,0 +1,2 @@
+set BP at 004011C9,
+	then check 00408030 in the dump, you'll find the password

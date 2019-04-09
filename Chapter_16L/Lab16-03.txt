@@ -1,0 +1,2 @@
+Nice AntiDebugging trick @ 00401326
+(Hiding control flow using the SEH-chain)
